@@ -3,7 +3,7 @@
 A deep learning system that detects Pneumonia from chest X-rays using a CNN, with **Grad-CAM visualization** to explain which regions of the X-ray influenced the model's decision.
 
 ## 🚀 Live Demo
-[Add deployed link here]
+https://pulmoscan-mmbwwqstchebvsbgzpkz8o.streamlit.app
 
 ## 📌 Overview
 This project trains a Convolutional Neural Network (CNN) to classify chest X-rays as Normal or Pneumonia, and goes a step further than a typical classifier by adding **Grad-CAM (Gradient-weighted Class Activation Mapping)** — a technique that visualizes exactly which parts of the X-ray the model focused on to make its prediction.
